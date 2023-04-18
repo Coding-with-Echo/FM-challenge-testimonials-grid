@@ -22,7 +22,7 @@ html {
 
 body {
   font-family: "Barlow Semi Condensed", sans-serif;
-  background: var(--color-Light-grayish-blue);
+  background: var(--color-light-gray);
   font-size: 1.3rem;
   font-weight: 500;
   color: var(--color-white);
